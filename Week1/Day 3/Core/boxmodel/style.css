@@ -1,0 +1,22 @@
+h1 {background-color: white;
+    font-size: 20px;
+color: rgb(51, 197, 148);
+border: solid rgb(51, 197, 148);
+border-radius: 25px;
+text-align: center;
+padding: 7px;
+height: auto;
+width: 20%;}
+h2{background-color:rgb(47, 184, 138);
+color: white;
+width: 5%;
+weight: 25px;
+text-align: center;
+border-radius: 50%;}
+input{background-color: blue;
+    color: azure;
+    text-align: center;
+    box-shadow: 10px 5px 5px black;
+    border: solid black;
+width: 28%;
+font-size: 20px;}
