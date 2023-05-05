@@ -1,0 +1,49 @@
+.container{background-color: antiquewhite;
+padding: 30px;
+}
+
+
+
+
+
+
+
+h4{font-size: 150px;
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+
+h1{background-color: rgb(15, 195, 195)
+; height: 800px;
+margin : 30px;
+margin-bottom: 50px;
+margin-top: -70px;
+padding: 50px;
+display: flex;
+align-content: center;
+justify-content: center;
+justify-content: space-evenly;
+
+}
+
+
+h2{background-color: palevioletred;
+    height: 800px;
+    margin : 30px;
+    margin-bottom: 50px;
+    padding: 50px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    justify-content: space-evenly;}
+
+
+h3{background-color: white;
+    height: 800px;
+    margin : 30px;
+    padding: 50px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    justify-content: space-evenly;}
