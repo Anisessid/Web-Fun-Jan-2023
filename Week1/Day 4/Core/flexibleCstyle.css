@@ -1,0 +1,29 @@
+.row{
+    display: flex;
+}
+.col{flex: 1;
+background-color: rgb(30, 128, 155);
+padding: 20px;
+margin: 10px;}
+.row1{display: flex;}
+.col{flex:1;
+background-color:rgb(30, 128, 155) ;
+padding: 20px;
+margin: 10px;
+}
+.col-2{width:66%;
+    background-color:rgb(30, 128, 155);
+    padding: 20px;
+    margin: 10px;
+}
+.row3{display: flex;}
+.col{flex:1;
+   }
+    .col-3{ background-color:rgb(30, 128, 155) ;
+        padding: 20px;
+        margin: 10px;
+    width: 60%;}
+    .col-2{ background-color:rgb(30, 128, 155) ;
+    padding: 20px;
+    margin: 10px;
+width: 40%;}
