@@ -1,0 +1,65 @@
+.container{display: flex;
+    flex-direction: row;
+    background-color: white;
+border: 2px;
+border-style: solid;
+border-color: rgb(169, 166, 166);
+height: 240px;
+width: 500px;
+margin: auto;
+margin-top: 80px;
+position: relative;
+}
+
+.user-info h1{    background-color: rgb(15, 125, 172);
+height: 50px;
+margin-top: 0%;
+position: fixed;
+width: 59%;
+margin-right: 0%;}
+.user-info{display: flex;
+position: relative;}
+.user-info h2{
+    margin-top: 80px;
+    height: 50px;
+    font-size: 24px;
+     margin-left: 20px;
+}
+.user-info h3{margin-top: 110px;
+margin-left: -73px;
+font-size: 17px;
+}
+.user-info .professions{
+    font-weight: bold;
+    margin-top: 140px;
+    margin-left: -70px;
+    font-size: small;
+
+}
+.user-info .education{ 
+    font-weight: bold;
+    margin-top: 160px;
+    margin-left: -210px;
+    font-size: small;}
+    .user-info .button{position: absolute;
+        margin-bottom: 30px;}
+    .user-info .location{width: 6%;
+            position: absolute;
+        top: 113px;
+    margin-left: 20px;}
+    .user-info .user{position:absolute;
+        border-radius: 10%;
+        width: 25%;
+        margin-top: 25px;
+        margin-left: 30px;
+    }
+    .user-info .settings {position: absolute;
+        width:6%;
+        border-radius: 5%;
+        margin-top: 204px;
+        margin-left: 20px;
+    }
+    .user-info .button{margin-top: 200px;
+    margin-left: 45px;
+    color: rgb(17, 77, 150);}
+
