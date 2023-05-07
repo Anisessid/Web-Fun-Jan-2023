@@ -1,0 +1,98 @@
+.container{
+        margin: auto;
+        width: 80%;
+        padding: 10px;
+        display: flex;
+      
+}
+
+.content{
+    width: 70%;
+}
+
+.sidebar{
+    width: 28%;
+}
+
+
+.bg-blue{
+    background-color: rgb(31, 146, 199);
+    margin-left: -80px;
+height: 100px;
+}
+.name{
+    color: black;
+    margin: 0;
+
+    
+}
+.icon{
+    height: 15px;
+}
+
+.request-icon{
+    height: 30px;
+}
+
+.subtitle{
+    margin: 0;
+    margin-left: 10px;
+}
+
+.inline{
+    display: flex; 
+}
+
+.description{
+    color: black;
+}
+
+.profile-img{
+    margin-top: -50px;
+    border-radius: 100%;
+    width: 100px;
+}
+
+.request-img{
+    border-radius: 100%;
+    width: 50px;
+}
+
+.user-card{
+    padding-left: 80px;
+    border: 3px solid rgb(129, 131, 129);
+}
+
+.education{ 
+    margin-top: 50px;
+    border: 3px solid rgb(145, 148, 145);
+
+}
+.pl{
+padding-left: 20px;
+}
+
+.gray-color{
+    color: gray;
+}
+
+.request{
+    border: 3px solid rgb(130, 132, 130);
+
+}
+
+.white-black-text{
+    padding: 10px;
+    margin-top: 0;
+    background-color: rgb(26, 25, 25);
+    color: white;
+}
+
+.mt{margin-top: 10px;}
+
+.round-span{
+    padding: 5px;
+    color: black;
+    background-color: rgb(153, 150, 150);
+    border-radius: 100%;
+}
