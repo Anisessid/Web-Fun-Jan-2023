@@ -1,0 +1,57 @@
+*{margin: 0px;
+padding: 0px;}
+.wholebody{width: 1080px;
+margin: auto;
+margin-top:;}
+
+nav{background-color: black;
+color: white;
+height: 50px;
+display: flex;
+align-items: center;
+padding-left: 20px;}
+.title{color: black;
+display: flex;
+justify-content: center;
+align-items: center;}
+.body{display: flex;}
+/* left body */
+.user{border:solid black 4px;
+width: 120px;
+height: 180px;
+padding: 20px;
+margin-right: 20px;
+}
+.logo{border-radius: 30px;
+width: 50px;
+padding: 20px;
+}
+.link{
+    padding-bottom: 30px;
+}
+.name{font-size: large;
+padding-top: 20px;
+padding-bottom: 20px;}
+/* right body */
+.right-body{width: 100%;}
+.boxes{border: solid black 4px;
+    margin-bottom: 20px;
+    height: 200px;
+    padding: 30px;
+}
+.nameandlikes{display: flex;
+justify-content: space-between;}
+.likesbtn{background-color: yellow;
+color: black;
+box-shadow: black 4px 4px ;
+width: 50px;
+height: 30px;}
+.all-names{
+margin-bottom: 50px;
+}
+.likeandnum{display: flex;}
+p{font-weight: bold;}
+.likesnum{display: flex;
+justify-content:space-between;
+width: 250px;
+}
